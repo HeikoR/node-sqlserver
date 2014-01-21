@@ -25,8 +25,5 @@
      "mocha" : "0.14.x",
      "async" : "0.1.x"
   },
-  "os" : [ "win32" ],
-  "scripts" : {
-    "install": "node scripts/install.js"
-  }
+  "os" : [ "win32" ]
 }
